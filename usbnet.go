@@ -12,7 +12,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/usbarmory/imx-usbnet"
+	usbnet "github.com/usbarmory/imx-usbnet"
 	"github.com/usbarmory/tamago/soc/imx6/usb"
 
 	"github.com/miekg/dns"
